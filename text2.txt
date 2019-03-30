@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 this is master and test2
 
 testing git pull
@@ -7,3 +8,7 @@ testing fetch also
 
 
 change in remote
+=======
+hello
+this is second 
+>>>>>>> medha
